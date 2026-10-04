@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">智能复读机</string>
+    <string name="title_activity_main">智能复读机</string>
+    <string name="package_name">cn.kimiwork.smartrepeater</string>
+    <string name="custom_url_scheme">cn.kimiwork.smartrepeater</string>
+</resources>
